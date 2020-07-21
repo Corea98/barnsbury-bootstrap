@@ -1,0 +1,38 @@
+main #recipes {
+    color: #3C2323;
+    font-size: 20px;
+}
+
+main #recipes .recipe {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+main #recipes .recipe img {
+    width: 100%;
+}
+
+main #recipes .recipe a {
+    font-size: 45px;
+    color: #3C2323;
+}
+
+main #recipes .recipe .ingredients {
+    margin: 25px 0;
+}
+
+main #recipes .recipe h3 {
+    font-size: 33px;
+}
+
+main #recipes .recipe ul, main #recipes .recipe ol {
+    margin-left: -15px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+main #recipes .recipe .links a {
+    font-size: 17px;
+    text-decoration: underline;
+    margin-right: 15px;
+}

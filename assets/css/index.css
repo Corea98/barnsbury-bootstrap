@@ -1,0 +1,189 @@
+main p {
+    margin: 32px 0px 16px;
+}
+
+main h2 {
+    font-size: 2.29rem;
+    font-weight: bold;
+    margin: 16px 0px 32px;
+}
+
+main h3 {
+    font-size: 2rem;
+    line-height: 1.15;
+    font-weight: bold;
+}
+
+
+/* FIRST */
+main #main-content {
+    background: url("../img/veg.jpg");
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: 50vw 0px;
+    background-color: #20603c;
+    color: white;
+    padding: 128px 0px;
+}
+
+#main-content h1 {
+    font-weight: bold;
+    font-size: 2.69955rem;
+    line-height: 1.15;
+    margin: 32px 0;
+}
+
+#main-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 32px 0;
+}
+
+
+
+
+
+/* SERVICES */
+main #services {
+    padding: 60px 0 80px 0;
+}
+
+main #services .service {
+    margin: 0 15px;
+}
+
+main #services .service .image {
+    width: 100%;
+    height: 210px;
+    overflow: hidden;
+}
+
+main #services .service .image img {
+    width: 100%;
+}
+
+main #services .service p {
+    font-size: 1rem;
+    font-weight: normal;
+
+}
+
+
+
+
+/* MEET US */
+main #meet-us {
+    background-image: url("../img/farm.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: 0 55%;
+    background-color: #20603c;
+    color: white;
+}
+
+main #meet-us .oscuro {
+    padding: 85px 0;
+}
+
+main #meet-us .data {
+    margin: 0 -30px;
+}
+
+main #meet-us .data h2 {
+    margin: 0 0;
+    margin-bottom: 10px;
+}
+
+main #meet-us .data p {
+    margin: 0 0;
+}
+
+
+
+/* ABOUT */
+main #about {
+    padding-bottom: 65px;
+}
+
+main #about .about-image {
+    height: 600px;
+    background-image: url("../img/serv-4.jpg");
+    background-repeat: no-repeat;
+    background-size: 50% auto;
+    background-position: 0px 50%;
+}
+
+main #about .about-image p {
+    line-height: 1.6;
+}
+
+main #about .about-image ul li {
+    line-height: 1.6;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+main .opinion {
+    width: 320px;
+    color: #3C2323;
+}
+
+main .opinion img {
+    width: 18px;
+    margin: 0 4px;
+}
+
+main .opinion .opacity033 {
+    opacity: 0.33;
+}
+
+main .opinion h4 {
+    margin: 16px 0 32px;
+    font-size: 20px;
+}
+
+main .opinion p {
+    font-size: 17px;
+    margin: 32px 0 0;
+}
+
+main .opinion strong {
+    font-size: 17px;
+}
+
+
+
+/* FAVOURITE */
+main #favourite {
+    background-color: #655441 !important;
+    color: white;
+    padding: 85px 0;
+}
+
+main #favourite .recipe-favourite {
+    width: 315px;
+}
+
+main #favourite .recipe-favourite h4 {
+    margin-bottom: 0px;
+}
+
+main #favourite .recipe-favourite h4 a {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+
+main #favourite .recipe-favourite span {
+    font-size: 15px;
+}
+
+main #favourite .recipe-favourite p {
+    font-size: 16px;
+}
+
+main #favourite .recipe-favourite a {
+    font-size: 17px;
+    color: white;
+    text-decoration: underline;
+}

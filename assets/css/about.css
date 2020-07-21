@@ -1,0 +1,59 @@
+main {
+    color: #3C2323;;
+}
+
+main #about {
+    padding: 65px 0 30px 0;
+}
+
+main #about img {
+    width: 100%;
+}
+
+main #about h3 {
+    font-size: 43px;
+}
+
+main #about p {
+    font-size: 20px;
+    margin: 30px 0 25px 0;
+}
+
+
+main #customers {
+    background-color: #fdf9ec;
+    padding: 80px 0;
+}
+
+main #customers h2 {
+    font-size: 1.64rem;
+}
+
+main #customers .customers-say {
+    width: 228px;
+    margin: 0 15px;
+}
+
+main #customers .customers-say h4 {
+    font-size: 20px;
+    margin: 30px 0 25px 0;
+}
+
+main #customers .customers-say p {
+    font-size: 17px
+}
+
+main #customers .customers-say span {
+    font-size: 17px
+}
+
+
+
+main #grow {
+    margin: 80px 0 40px 0;
+}
+
+main #grow h2 {
+    font-size: 46px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,120 @@
+.back-color-white {
+    background-color: white !important;
+}
+
+.oscuro {
+    height: 100%;
+    width: 100hw;
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+.separator {
+    width: 96px;
+    height: 3px;
+    margin: 32px auto;
+    background-color: black;
+}
+
+.btn-1 {
+    padding: 8px 18px;
+    border: solid 2px white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-1 a {
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: bold;
+    color: white;
+    margin: 16px 18px;
+}
+
+.btn-green {
+    background-color: #20603C;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    font-family: Rubik, "Trebuchet MS";
+    background-color: #fffdf6;
+}
+
+
+/* HEADER */
+
+header {
+    color: #3C2323;
+}
+
+#header {
+    height: 128px;
+}
+
+#logo {
+    font-size: 1.64303rem;
+    font-weight: bold;
+}
+
+#logo:hover, header nav a:hover {
+    color: #20603c;
+    cursor: pointer;
+}
+
+#address {
+    font-size: 0.71818rem;
+    font-weight: normal;
+}
+
+header nav a {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #3C2323;
+    padding: 8px;
+}
+
+header .icon {
+    margin: 0 5px 6px 6px;
+    cursor: pointer;
+}
+
+header .icon img {
+    width: 20px;
+}
+
+
+/* FOOTER */
+footer {
+    padding: 60px 0 30px 0;
+}
+
+footer a {
+    color: #20603C;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #20603C;
+    text-decoration: none;
+}
+
+footer .col-auto {
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
